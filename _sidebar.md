@@ -16,7 +16,7 @@
     * [10.短信管理](messageManager.md)
     * [11.系统管理](sysManager.md)
 
-* 富鹊云TMS操作视频
+<!--* 富鹊云TMS操作视频
     * [1.订单中心](videoOrder.md)
     * [2.调度管理](videoDispatch.md)
     * [3.监控管理](videoMonitor.md)
@@ -26,7 +26,7 @@
     * [7.运费管理](videoExpense.md)
     * [8.财务](videoFinance.md)
     * [9.短信管理](videoMessage.md)
-    * [10.系统管理](videoSys.md)
+    * [10.系统管理](videoSys.md)-->
    
 * 富鹊云TMS司机端
     * [1.司机端登录](driverAppLogin.md)

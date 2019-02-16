@@ -6,12 +6,12 @@
   
 历史配送单记录: 
   
-![历史任务.jpg](https://i.loli.net/2019/01/16/5c3ea48243540.jpg ':size=200')
+![历史任务2 (2).jpg](https://i.loli.net/2019/02/16/5c67c2f1755ab.jpg ':size=200')
   
 
 历史订单列表：   
   
-![历史订单列表.jpg](https://i.loli.net/2019/01/16/5c3ea45f1babf.jpg ':size=200')  
+![历史任务2 (1).jpg](https://i.loli.net/2019/02/16/5c67c2f18304c.jpg ':size=200')  
   
 &emsp;&emsp;点击回货明细，可以看到提交的回货种类和数量。
   
