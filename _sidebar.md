@@ -9,12 +9,12 @@
     * [3.调度管理](dispatchManager.md)
     * [4.监控管理](monitorManager.md)
     * [5.运力管理](transportManager.md)
-    * [6.区域管理](areaManager.md)
+    * [6.交接管理](handoverManager.md)
     * [7.地址管理](addressManager.md)
     * [8.运费管理](expenseManager.md)
     * [9.财务](finance.md)
     * [10.短信管理](messageManager.md)
-    * [11.系统管理](sysManager.md)
+    * [11.账号权限](sysManager.md)
 
 <!--* 富鹊云TMS操作视频
     * [1.订单中心](videoOrder.md)
