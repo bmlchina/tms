@@ -1,10 +1,10 @@
 * 富鹊云TMS产品概述
 
     * [1.系统概述](sys.md)
-    * [2.系统主流程及功能概述](what.md)
+    <!--* [2.系统主流程及功能概述](what.md)-->
 
-* 富鹊云TMS功能介绍
-    * [1.使用说明](useFor.md)
+* 富鹊云TMS入门指南
+    * [1.登录说明](useFor.md)
     * [2.订单中心](orderCenter.md)
     * [3.调度管理](dispatchManager.md)
     * [4.监控管理](monitorManager.md)
